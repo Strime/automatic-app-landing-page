@@ -35,15 +35,15 @@ youtube_username                          :
 features                                  :
   - title                                 : Gères tes matchs facilement
     description                           : Invite tes amis dans ton équipe et visualise qui est disponible pour ton prochain match
-    fontawesome_icon_name                : futbol
+    fontawesome_icon_name                 : futbol
 
   - title                                 : Une communication rapide
     description                           : Discute avec la fonctionnalité "buvette"
-    fontawesome_icon_name                : comments
+    fontawesome_icon_name                 : comments
 
   - title                                 : Un mode sombre
     description                           : Change le rendu de l'application grâce à son mode sombre
-    fontawesome_icon_name                : moon
+    fontawesome_icon_name                 : moon
 
 
 # Theme Settings
