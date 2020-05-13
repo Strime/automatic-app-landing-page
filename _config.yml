@@ -33,6 +33,17 @@ youtube_username                          :
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
+  - title                                 : Gères tes matchs facilement
+    description                           : Invite tes amis dans ton équipe et visualise qui est disponible pour ton prochain match
+    icon                                  : futbol
+
+  - title                                 : Une communication rapide
+    description                           : Discute avec la fonctionnalité "buvette"
+    icon                                  : comments
+
+  - title                                 : Un mode sombre
+    description                           : Change le rendu de l'application grâce à son mode sombre
+    icon                                  : moon
 
 
 # Theme Settings
