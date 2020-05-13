@@ -35,15 +35,15 @@ youtube_username                          :
 features                                  :
   - title                                 : Gères tes matchs facilement
     description                           : Invite tes amis dans ton équipe et visualise qui est disponible pour ton prochain match
-    icon                                  : futbol
+    icon                                  : fa-futbol
 
   - title                                 : Une communication rapide
     description                           : Discute avec la fonctionnalité "buvette"
-    icon                                  : comments
+    icon                                  : fa-comments
 
   - title                                 : Un mode sombre
     description                           : Change le rendu de l'application grâce à son mode sombre
-    icon                                  : moon
+    icon                                  : fa-moon
 
 
 # Theme Settings
